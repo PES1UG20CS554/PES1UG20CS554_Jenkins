@@ -10,7 +10,7 @@ pipeline {
     }
     stage('Test') {
       steps {
-        sh './aout'
+        sh './a.out'
         echo 'Tested Passed '
       }
     }
