@@ -1,3 +1,8 @@
-#include <bits/stdc++.h>
+
+#include <iostream>
 using namespace std;
-cout<<"working";
+
+int main(void) {
+  cout << "Hello, World\n";
+  return 0;
+}
